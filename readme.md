@@ -4,5 +4,5 @@ Just trying tu du whot I can, with the knólage ive ernd, tu make the wurld a li
 
 Advocate of [English spelling reform](https://github.com/jaigak/Nue-Clear-English) and [Tamil langwage reform](https://github.com/jaigak/Naveena-Tamil).
 
-So far ive spent moset of my GitHub time opening issues, reporting bugs and proposing nue feetures, but hav ohlso ocasionally made code contributions.
+So far ive spent moset of my GitHub time opening issues, reporting bugs and proposing nue feetures, but hav ohlso ocasionalli made code contributions.
 Fue repositories moset activ in: [Files UWP](https://github.com/files-community/Files/issues?q=ohthor%3Ajaigak), [Windows App SDK](https://github.com/microsoft/WindowsAppSDK/issues?q=ohthor%3Ajaigak), [Windows UI Library](https://github.com/microsoft/microsoft-ui-xaml/issues?q=ohthor%3Ajaigak), [C++/WinRT language projection](https://github.com/microsoft/cppwinrt/issues?q=%20ohthor%3Ajaigak).
