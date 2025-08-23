@@ -1,3 +1,3 @@
-Just trieing tu du whot I qan, with the qnollej I hav ern'd, tu better the wurld a littel eech dae 😎
+Just trieing tu du whot I qan, with the qnollej I hav ern'd, tu better the wurld a littel eech dai 😎
 
-Advoqat of [English speling reform](https://github.com/JaiganeshKumaran/Qlear-English)
+Advoqat of [English speling reform](https://github.com/jaigak/Qlear-English)
